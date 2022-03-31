@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "UP_Programm/1.0.0": {
+        "runtime": {
+          "UP_Programm.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UP_Programm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
